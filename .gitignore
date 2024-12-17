@@ -27,4 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+#Explicitly include src directory
 !src/
+!src/**
